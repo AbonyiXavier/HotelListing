@@ -43,11 +43,18 @@
       ]
     },
     {
-      "hotel_name": "undefined",
-      "address": "undefined",
-      "location": "undefined  ",
-      "state": "undefined",
+      "hotel_name": "Francis ",
+      "address": "Kwuba arab road",
+      "location": "Uyo",
+      "state": "Abuja",
       "id": 5
+    },
+    {
+      "hotel_name": "Francis ",
+      "address": "Kwuba arab road",
+      "location": "Uyo",
+      "state": "Abuja",
+      "id": 6
     }
   ]
 }

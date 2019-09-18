@@ -1,0 +1,53 @@
+{
+  "hotels": [
+    {
+      "id": 2,
+      "hotel_name": "Top Rank Hotels Galaxy",
+      "address": "Plot 245, pow Mafemi, off Solomom Lar Way, Utako",
+      "location": "Utako",
+      "state": "Abuja",
+      "room_sizes": [
+        {
+          "small": 20000,
+          "medium": 40000,
+          "classic": 80000
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "hotel_name": "Finco Guest Inn",
+      "address": "24, Off Berger Quarry Road, Abuja",
+      "location": "Berger",
+      "state": "Abuja",
+      "room_sizes": [
+        {
+          "small": 2000,
+          "medium": 8000,
+          "classic": 12000
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "hotel_name": "Beni Hotels",
+      "address": "11/13 Wimo Onatere Street, Off Broad Street",
+      "location": "wimo",
+      "state": "lagos",
+      "room_sizes": [
+        {
+          "small": 2000,
+          "medium": 8000,
+          "classic": 12000
+        }
+      ]
+    },
+    {
+      "hotel_name": "undefined",
+      "address": "undefined",
+      "location": "undefined  ",
+      "state": "undefined",
+      "id": 5
+    }
+  ]
+}
